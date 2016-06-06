@@ -61,6 +61,14 @@ body#star-10 #section-07 {background-image:url('http://bluewin-longform.s3.eu-ce
 
 
 
+/* classes for video slides  */
+
+.iframe640 {width:640px;height:360px;}
+.iframe480 {width:480px;height:360px;}
+
+
+
+
 /* Reset Picture settings from mobile */
 #section-02 .sticky-bg-container,
 #section-04 .sticky-bg-container, 
