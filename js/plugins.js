@@ -72,7 +72,7 @@ menuList.prepend('<li id="responsive-tab"><a href="#" style="color:#015;">Bluewi
 				      slidesToScroll: 1,
 				      variableWidth: false,
 				      centerMode: false,
-				      arrows:false
+				      dots: true
 				      }
 					},
 					
@@ -84,7 +84,7 @@ menuList.prepend('<li id="responsive-tab"><a href="#" style="color:#015;">Bluewi
 				      slidesToScroll: 1,
 				      variableWidth: false,
 				      centerMode: false,
-				      arrows:false
+				      dots: true
 				      }
 					}
 
