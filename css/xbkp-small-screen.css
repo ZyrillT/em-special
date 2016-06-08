@@ -446,9 +446,6 @@ aside.portrait header, article.portrait header, article.interview header, articl
   border-bottom: 0px solid black;
   border-bottom-style: double;
   margin-bottom: 20px; }
-  
-article.header-only header {padding:20px 0 0 0; }
-  
 
 aside.portrait article.social-links header {
   padding: 0;
